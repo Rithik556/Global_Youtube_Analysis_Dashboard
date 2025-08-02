@@ -57,7 +57,7 @@ This project presents a comprehensive dashboard analyzing YouTube metrics across
 
 ## 🧾 Files
 
-- `Dashboard 1 (2).pdf`: Contains the main visual dashboard summarizing key findings.
+- `Global Youtube Analysis Dashboard.pdf`: Contains the main visual dashboard summarizing key findings.
 
 ## 🚀 Getting Started
 
